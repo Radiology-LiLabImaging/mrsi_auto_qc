@@ -21,7 +21,7 @@ Data are stored as a Pandas DataFrame with the following columns:
 | `index`         | Voxel number                                  |
 | `Subject ID`    | Patient identifier                            |
 | `Subject Visit` | Patient visit identifier                      |
-| `Subject DC`  | Patient diagnosis                                  |
+| `Subject Dx`  | Patient diagnosis                                  |
 | `spectrum`      | Real component of the raw voxel spectrum      |
 | `imspectrum`    | Imaginary component of the raw voxel spectrum |
 | `label`         | Voxel classification label                    |
